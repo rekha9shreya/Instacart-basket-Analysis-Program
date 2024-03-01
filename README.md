@@ -9,7 +9,7 @@ Instacart, an online grocery store that operates through an app, wants to find o
 
 ## Key Questions
 
-● The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
+● The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) to schedule ads at times when there are fewer orders.
 
 ● They also want to know whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times.
 
@@ -19,17 +19,17 @@ Instacart, an online grocery store that operates through an app, wants to find o
 
 ● The marketing and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviors differ. For example:
 
-1 What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
+      1. What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
 
-2 Are there differences in ordering habits based on a customer’s loyalty status?
+      2. Are there differences in ordering habits based on a customer’s loyalty status?
 
-3 Are there differences in ordering habits based on a customer’s region?
+      3. Are there differences in ordering habits based on a customer’s region?
 
-4 Is there a connection between age and family status in terms of ordering habits?
+      4. Is there a connection between age and family status in terms of ordering habits?
 
-5 What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
+      5. What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
 
-6 What differences can you find in the ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of
+      6. What differences can you find in the ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of
 
 ## Data
 
@@ -47,7 +47,7 @@ Instacart, an online grocery store that operates through an app, wants to find o
 
 ## Tools
 
-The following Python libraries were used for the data analyzed for this project:
+#### The following Python libraries were used for the data analyzed for this project:
 Pandas: for data analization
 Numpy: for mathematical equations
 SciPy: for mathematical equations
@@ -56,11 +56,11 @@ Matplotlib: for data visualization
 
 ## Folders
 
- The project files are divided between the following folders:
+ #### The project files are divided between the following folders:
  
 ● Project Management: Project Brief 
 
-● Data: (Data divided into two subfolders Original data and Prepared data, and data files not uploaded to GitHub due to size.) 
+● Data: (Data divided into two subfolders Original data and Prepared data, however, I have not uploaded the data files to GitHub due to its size) 
 
 ● Scripts: The Jupyter notebooks containing the coding for the analysis.
 
